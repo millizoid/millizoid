@@ -1,20 +1,7 @@
-### Hi there
+## About
 
-<!--
-**millizoid/millizoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Millie Cox, a Statistics: Data Science student at Brigham Young University, set to graduate in April 2024. My academic journey has equipped me with a robust skill set, covering everything from mathematics and programming languages like R, Python, and SAS, to data ecosystems and statistical modeling. As an IT Architect at the BYU Office of Information Technology, I've led impactful initiatives, such as developing a documentation website and establishing a technical architecture scorecard. My role also involved contributing to AI integration guidelines, emphasizing our organization's forward-looking approach to technology. Beyond my technical prowess, my experience as a Teaching Assistant and Student Office Assistant reflects my commitment to creating positive learning environments and utilizing organizational skills. In addition to my academic pursuits, I'm an active member of the BYU Statistics Club, engaging in projects that involve statistical models and data visualization.
 
-Here are some ideas to get you started:
+I’m a huge fan of programming in general have grown to absolutely love Python and R. My statistical background in data modeling, probability, and analysis has allowed me to help solve problems by combining these skills. Whether it be modeling data from Taylor Swift lyrics or doing five year financial predictions, I love finding ways to predict and represent data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love going outside! Whether it's skiing, running, or hiking, that's where I go a lot.
--->
-
-### I'm currently a student at BYU studying data science. I'm pretty new to Git and GitHub, so any tips are welcome. I love modeling data in both Python and R, and I am trying to further my skills in both of these languages. Programming and stats both are things that I love doing in my free time, and I love to learn from other people!
-
-### Outside of coding and doing stats, I love being outside, whether it's skiing, running, or hiking. I also love Taylor Swift, Harry Styles, and going to concerts.
+Outside of statistics and programming, I love spending time outdoors. Whether it be running, skiing, or hiking, it’s very common for me to be outside. I love going to concerts, especially with friends.
